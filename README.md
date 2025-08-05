@@ -78,5 +78,3 @@ We have completed the first stage implementation of the project.
 During the final stages of the initial project implementation, we conducted an analysis to explore the feasibility of migrating metaforo's complex backend logic onto ICP. However, we discovered that the business logic on metaforo would incur high gas costs when running on ICP. As a result, we have decided to streamline our business logic and create a decentralized on-chain voting process for ICP.
 
 This system will serve as a straightforward proposal voting platform for the ICP community. The foundation will initiate rounds for idea collections or offer bounties for specific work on this platform. Developers can submit their proposals for these rounds, and the wider ICP community members will have the opportunity to vote for the proposals they support. The winning proposals will receive funding based on the voting results.
-
-[LICENSE](https://github.com/metaforo/metaforo-icp/blob/master/LICENSE) : MIT
